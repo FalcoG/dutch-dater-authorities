@@ -1,0 +1,33 @@
+{
+  "name": "dutch-water-authorities",
+  "version": "0.0.0",
+  "description": "Functions to provide information about Dutch water authorities",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "node --experimental-specifier-resolution=node --loader ts-node/esm ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FalcoG/dutch-water-authorities.git"
+  },
+  "keywords": [
+    "dutch",
+    "water",
+    "authority",
+    "waterschap",
+    "waterschappen"
+  ],
+  "author": "Falco Gerritsjans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FalcoG/dutch-water-authorities/issues"
+  },
+  "homepage": "https://github.com/FalcoG/dutch-water-authorities#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "authorities": {
+    "0372": {
+      "2024": {
+        "system_tax": 133.39,
+        "waste_unit_tax": 106.04,
+        "property_tax": 0.0241,
+        "sources": [
+          "https://www.hhdelfland.nl/over-ons/financien/begroting-2024/tarieven-2024/"
+        ]
+      }
+    }
+  }
+}
