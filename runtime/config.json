@@ -1,0 +1,216 @@
+{
+  "authorities": {
+    "0372": {
+      "2024": {
+        "system_tax": 133.39,
+        "waste_unit_tax": 106.04,
+        "property_tax": 0.0241,
+        "sources": [
+          "https://www.hhdelfland.nl/over-ons/financien/begroting-2024/tarieven-2024/"
+        ]
+      }
+    },
+    "0654": {
+      "2024": {
+        "system_tax": 73.52,
+        "waste_unit_tax": 55.56,
+        "property_tax": 0.02938,
+        "sources": [
+          "https://www.aaenmaas.nl/regelen/waterschapsbelasting/",
+          "https://web.archive.org/web/20240120173038/https://www.aaenmaas.nl/regelen/waterschapsbelasting/",
+          "https://www.aaenmaas.nl/publish/pages/3367/begroting_in_1_oogopslag_2.jpg"
+        ]
+      }
+    },
+    "0655": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.wshd.nl/"
+        ]
+      }
+    },
+    "0661": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://scheldestromen.nl/"
+        ]
+      }
+    },
+    "0665": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.waterschaplimburg.nl/"
+        ]
+      }
+    },
+    "0539": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.dommel.nl/"
+        ]
+      }
+    },
+    "0652": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.brabantsedelta.nl/"
+        ]
+      }
+    },
+    "0621": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.waterschaprivierenland.nl/"
+        ]
+      }
+    },
+    "0656": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.schielandendekrimpenerwaard.nl/"
+        ]
+      }
+    },
+    "0651": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.hhnk.nl/"
+        ]
+      }
+    },
+    "0650": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.zuiderzeeland.nl/"
+        ]
+      }
+    },
+    "0653": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.wetterskipfryslan.nl/"
+        ]
+      }
+    },
+    "0636": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.hdsr.nl/"
+        ]
+      }
+    },
+    "0155": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.agv.nl/"
+        ]
+      }
+    },
+    "0616": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.rijnland.net/"
+        ]
+      }
+    },
+    "0662": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.vallei-veluwe.nl/"
+        ]
+      }
+    },
+    "0152": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.wrij.nl/"
+        ]
+      }
+    },
+    "0664": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.wdodelta.nl/"
+        ]
+      }
+    },
+    "0663": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.vechtstromen.nl/"
+        ]
+      }
+    },
+    "0647": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.noorderzijlvest.nl/"
+        ]
+      }
+    },
+    "0646": {
+      "2024": {
+        "system_tax": null,
+        "waste_unit_tax": null,
+        "property_tax": null,
+        "sources": [
+          "https://www.hunzeenaas.nl/"
+        ]
+      }
+    }
+  }
+}

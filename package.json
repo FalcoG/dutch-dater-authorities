@@ -4,7 +4,7 @@
   "description": "Functions to provide information about Dutch water authorities",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "node --experimental-specifier-resolution=node --loader ts-node/esm ./src/index.ts",
+    "dev": "cd ./runtime && node --experimental-specifier-resolution=node --loader ts-node/esm ./index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
