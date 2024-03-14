@@ -7,9 +7,15 @@ export type WaterAuthorityTaxes = {
   }
 }
 
+export type WaterAuthoritiesConfig = {
+  authorities: WaterAuthority
+}
+
 export type WaterAuthority = {
   gov_code: string
   taxes: WaterAuthorityTaxes
   osm_tags: any[]
   wikidata: any[]
 }
+
+export type WaterAuthoritiesOutput = WaterAuthority[]

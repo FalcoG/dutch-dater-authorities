@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "sourceMap": true,
+    "outDir": "dist",
+    "declaration": true
+  },
+  "files": ["src/index.ts"],
+  "lib": ["es2023"]
+}

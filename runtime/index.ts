@@ -41,7 +41,7 @@ try {
     })
   )
 
-  await mkdir('dist', { recursive: true })
+  await mkdir('../dist', { recursive: true })
 
   const promises = [
     writeFile('../dist/output.json', JSON.stringify(metadata))

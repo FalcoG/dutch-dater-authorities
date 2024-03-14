@@ -84,11 +84,11 @@
     },
     "0656": {
       "2024": {
-        "system_tax": null,
-        "waste_unit_tax": null,
-        "property_tax": null,
+        "system_tax": 129.88,
+        "waste_unit_tax": 71.29,
+        "property_tax": 0.0235,
         "sources": [
-          "https://www.schielandendekrimpenerwaard.nl/"
+          "https://www.schielandendekrimpenerwaard.nl/wat-doen-we/waterschapsbelasting/hoeveel-belasting-u-betaalt/"
         ]
       }
     },
