@@ -18,4 +18,4 @@ export type WaterAuthority = {
   wikidata: any[]
 }
 
-export type WaterAuthoritiesOutput = WaterAuthority[]
+export type WaterAuthorities = WaterAuthority[]
