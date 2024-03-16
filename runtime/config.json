@@ -24,21 +24,21 @@
     },
     "0655": {
       "2024": {
-        "system_tax": null,
-        "waste_unit_tax": null,
-        "property_tax": null,
+        "system_tax": 123.31,
+        "waste_unit_tax": 78.59,
+        "property_tax": 0.0324,
         "sources": [
-          "https://www.wshd.nl/"
+          "https://www.wshd.nl/belastingen"
         ]
       }
     },
     "0661": {
       "2024": {
-        "system_tax": null,
-        "waste_unit_tax": null,
-        "property_tax": null,
+        "system_tax": 141.60,
+        "waste_unit_tax": 78.28,
+        "property_tax": 0.05246,
         "sources": [
-          "https://scheldestromen.nl/"
+          "https://scheldestromen.nl/loket/belastingen/"
         ]
       }
     },

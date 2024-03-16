@@ -1,4 +1,9 @@
 # dutch-water-authorities 🌊
+A package to calculate taxes and retrieve metadata about Dutch water authorities.
+
+Currently only the taxes for 2024 have been defined.
+
+⚠️ **Please note**: Taxes for properties outside dykes and taxes for car ownership are currently not taken into account. This is done to keep the focus on introducing the essentials first.
 ## Updating prices
 ### Update config with new tax year
 To prevent manual labour for a new year of tax changes, you can run a command to populate the config. It can fill the config with entries using the following command:
@@ -27,6 +32,7 @@ The naming can vary when the same tax is being meant. This list should help deco
   - Voor een huishouden: € xxx,xx
 - **property_tax** (percentage):
   - Voor een woning of bedrijf: x,xxxx% van de WOZ-waarde van het pand
+  - Gebouwd/eigenaren gebouwde objecten, binnendijks
   - In the following case please calculate it back to a percentage ([tax per 100000] / 1000): 
     - Gebouwd per €100.000 van WOZ waarde woning 
 - **waste_unit_tax** (in euro):
